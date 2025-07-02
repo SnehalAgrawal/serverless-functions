@@ -1,0 +1,9 @@
+
+# Dependencies
+/node_modules
+/functions/node_modules
+/load-test/node_modules
+
+# Local Environment
+.env
+.DS_Store
